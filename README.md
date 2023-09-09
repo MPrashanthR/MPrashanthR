@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full Stack Developer | SQl | Python | Data Analytics**
 
-- 💬 Ask me about **Android , MERN Stack , Web Development , Data Analytics skills**
+- 💬 Ask me about **MERN Stack , Web Development , Data Analytics skills**
 
 - 📫 How to reach me **prashanthreddymanchal9@gmail.com**
 
