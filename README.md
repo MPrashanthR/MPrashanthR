@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **prashanthreddymanchal9@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1RsuK2JSm2FCM-WBNVbIAto_vyxFSxClqD2fdA6c_YJg/edit?usp=sharing](https://docs.google.com/document/d/1RsuK2JSm2FCM-WBNVbIAto_vyxFSxClqD2fdA6c_YJg/edit?usp=sharing)
+- 📄 Know about my experiences https://prashanthreddy8.carrd.co/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
