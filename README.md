@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mprashanthr&label=Profile%20views&color=0e75b6&style=flat" alt="mprashanthr" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Developer | SQl | Python | Data Analytics**
+- 🌱 I’m currently learning ** Developer | SQl | Python | Data Analytics**
 
-- 💬 Ask me about **MERN Stack , Web Development , Data Analytics skills**
+- 💬 Ask me about ** Web Development , Data Analytics skills**
 
 - 📫 How to reach me **prashanthreddymanchal9@gmail.com**
 
